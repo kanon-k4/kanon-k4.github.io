@@ -1,0 +1,4 @@
+[submodule "f-homesystem"]
+	path = f-homesystem
+	url = https://github.com/kanon-k4/f-homesystem
+	branch = master
